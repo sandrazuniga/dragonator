@@ -1,0 +1,203 @@
+{
+    "loading": "読み込み中...",
+    "header": {
+        "home": "ホーム",
+        "store": "ストア",
+        "fanZone": "ファンゾーン",
+        "news": "ニュース",
+        "contact": "お問い合わせ",
+        "search": {
+            "placeholder": "検索...",
+            "suggestions": "候補",
+            "recent": "最近の検索"
+        },
+        "toggleTheme": "テーマ切り替え",
+        "changeLanguage": "言語切り替え",
+        "shoppingCart": "ショッピングカート",
+        "userAccount": "ユーザーアカウント",
+        "user": {
+            "greeting": "こんにちは",
+            "myAccount": "マイアカウント",
+            "logout": "ログアウト"
+        }
+    },
+    "upcomingShows": {
+        "title": "チリでの今後のショー",
+        "mediaButton": "メディア",
+        "buyButton": "チケット購入",
+        "noResults": "検索に一致するショーは見つかりませんでした。",
+        "modal": {
+            "listen": "今すぐ聴く",
+            "watch": "ビデオを見る"
+        }
+    },
+    "newReleases": {
+        "title": "新しいリリース"
+    },
+    "store": {
+        "title": "公式ストア",
+        "merchTab": "グッズ",
+        "ticketsTab": "チケット",
+        "addButton": "追加",
+        "buyButton": "購入",
+        "noMerchFound": "検索に一致するグッズは見つかりませんでした。",
+        "noTicketsFound": "検索に一致するチケットは見つかりませんでした。"
+    },
+    "imageAnalyzer": {
+        "title": "ファンゾーン：写真アナライザー",
+        "description": "最高のコンサート写真や素晴らしいファンアートをお持ちですか？ここにアップロードして、ロックの精神を持つAIにその素晴らしさを語らせましょう。",
+        "selectButton": "画像を選択",
+        "analyzeButton": "ロックスピリットで分析！",
+        "loadingButton": "分析中...",
+        "analysisTitle": "AIの分析：",
+        "errorSelectFirst": "まず画像を選択してください。",
+        "errorAnalyzing": "画像の分析中にエラーが発生しました。"
+    },
+    "news": {
+        "title": "最新ニュース",
+        "noResults": "検索に一致するニュースは見つかりませんでした。",
+        "readMore": "続きを読む...",
+        "readAloud": "読み上げる"
+    },
+    "contact": {
+        "title": "お問い合わせ",
+        "description": "質問、提案、または単に挨拶をしたいですか？メッセージを残してください！DRAGONATORチームができるだけ早く返信します。私たちの拠点でもお会いできます。",
+        "formTitle": "メッセージを送る",
+        "formSent": "メッセージありがとうございます！ロックの精神がそれを受け取りました。",
+        "formName": "お名前",
+        "formEmail": "メールアドレス",
+        "formPhone": "電話番号（任意）",
+        "formMessage": "メッセージ",
+        "formSending": "送信中...",
+        "formSend": "メッセージを送信",
+        "infoTitle": "私たちの拠点",
+        "mapTitle": "DRAGONATORの場所"
+    },
+    "footer": {
+        "copyright": "無断複写・転載を禁じます。最高の日本のロックをチリへ。"
+    },
+    "auth": {
+        "login": {
+            "tab": "ログイン",
+            "title": "おかえりなさい",
+            "button": "入力",
+            "errorCredentials": "認証情報が正しくありません。もう一度お試しください。",
+            "errorVerify": "ユーザーを確認できませんでした。",
+            "errorNoUser": "そのメールアドレスで登録されたユーザーはいません。"
+        },
+        "signup": {
+            "tab": "新規登録",
+            "title": "侵略に参加しよう",
+            "button": "アカウント作成",
+            "errorAllFields": "すべてのフィールドが必須です。"
+        },
+        "form": {
+            "email": "メールアドレス",
+            "password": "パスワード",
+            "name": "お名前",
+            "createPassword": "パスワードを作成"
+        }
+    },
+    "cart": {
+        "title": "あなたのカート",
+        "empty": {
+            "line1": "カートは空です。",
+            "line2": "グッズを追加して、あなたのロックスピリットを示しましょう！"
+        },
+        "subtotal": "小計",
+        "checkoutButton": "チェックアウトに進む（シミュレーション）"
+    },
+    "account": {
+        "title": "マイアカウント",
+        "personalDetails": "個人情報",
+        "name": "名前",
+        "email": "メールアドレス",
+        "billingDetails": "請求情報",
+        "address": "住所",
+        "city": "市",
+        "country": "国",
+        "phone": "電話番号",
+        "saveButton": "変更を保存",
+        "savingButton": "保存中...",
+        "savedButton": "保存しました！"
+    },
+    "checkout": {
+        "total": "合計",
+        "nextButton": "次へ",
+        "backButton": "戻る",
+        "progress": {
+            "tickets": "チケット",
+            "information": "情報",
+            "payment": "支払い",
+            "confirmation": "確認"
+        },
+        "step1": {
+            "title": "1. チケットを選択",
+            "sectionLabel": "セクション",
+            "quantityLabel": "数量"
+        },
+        "step2": {
+            "title": "2. 購入者情報",
+            "nameLabel": "氏名",
+            "emailLabel": "メールアドレス"
+        },
+        "step3": {
+            "title": "3. 支払い（シミュレーション）",
+            "summary": "注文概要",
+            "creditCard": "クレジットカード",
+            "cardNumber": "カード番号",
+            "expiry": "有効期限（MM/YY）",
+            "paypalRedirect": "安全に支払いを完了するためにPayPalにリダイレクトされます。",
+            "confirmButton": "購入を確定"
+        },
+        "step4": {
+            "title": "購入成功！",
+            "confirmationText": "確認とチケットを{{email}}に送信しました。",
+            "details": "購入詳細",
+            "event": "イベント",
+            "venue": "会場",
+            "date": "日付",
+            "tickets": "チケット",
+            "totalPaid": "支払い総額",
+            "homeButton": "ホームに戻る"
+        }
+    },
+    "merchCheckout": {
+        "title": "グッズのチェックアウト",
+        "total": "合計",
+        "nextButton": "次へ",
+        "backButton": "戻る",
+        "progress": {
+            "shipping": "配送",
+            "payment": "支払い",
+            "confirmation": "確認"
+        },
+        "step1": {
+            "summary": "ご注文の概要",
+            "shippingInfo": "配送情報"
+        },
+        "form": {
+            "name": "氏名",
+            "email": "メールアドレス",
+            "address": "住所",
+            "city": "市",
+            "country": "国",
+            "phone": "電話番号"
+        },
+        "step2": {
+            "title": "2. 支払い（シミュレーション）",
+            "creditCard": "クレジットカード",
+            "cardNumber": "カード番号",
+            "expiry": "有効期限（MM/YY）",
+            "paypalRedirect": "安全に支払いを完了するためにPayPalにリダイレクトされます。",
+            "confirmButton": "購入を確定"
+        },
+        "step3": {
+            "title": "ご購入ありがとうございます！",
+            "confirmationText": "ご注文を受け付け、指定された住所にまもなく発送します。確認メールが{{email}}に届きます。",
+            "totalPaid": "支払い総額",
+            "shippingTo": "配送先",
+            "homeButton": "ホームに戻る"
+        }
+    }
+}

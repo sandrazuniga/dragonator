@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DRAGONATOR</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        darkMode: 'class',
+        theme: {
+          extend: {
+            colors: {
+              'brand-red': '#E50914',
+              'brand-black': '#141414',
+              'brand-gray': '#222222',
+            },
+            fontFamily: {
+              sans: ['Inter', 'sans-serif'],
+            },
+            animation: {
+              'fade-in': 'fadeIn 1s ease-in-out',
+              'slide-in-up': 'slideInUp 0.5s ease-out',
+            },
+            keyframes: {
+              fadeIn: {
+                '0%': { opacity: 0 },
+                '100%': { opacity: 1 },
+              },
+              slideInUp: {
+                '0%': { transform: 'translateY(20px)', opacity: 0 },
+                '100%': { transform: 'translateY(0)', opacity: 1 },
+              }
+            }
+          }
+        }
+      }
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+  <script type="importmap">
+{
+  "imports": {
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.2.0/",
+    "react/": "https://aistudiocdn.com/react@^19.2.0/",
+    "react": "https://aistudiocdn.com/react@^19.2.0",
+    "@google/genai": "https://aistudiocdn.com/@google/genai@^1.27.0",
+    "i18next": "https://aistudiocdn.com/i18next@^25.6.0",
+    "react-i18next": "https://aistudiocdn.com/react-i18next@^16.2.3",
+    "i18next-browser-languagedetector": "https://aistudiocdn.com/i18next-browser-languagedetector@^8.2.0"
+  }
+}
+</script>
+</head>
+  <body class="bg-gray-100 dark:bg-brand-black transition-colors duration-300">
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+  </body>
+</html>

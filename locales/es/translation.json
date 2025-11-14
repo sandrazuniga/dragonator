@@ -1,0 +1,203 @@
+{
+    "loading": "Cargando...",
+    "header": {
+        "home": "Home",
+        "store": "Tienda",
+        "fanZone": "Fan Zone",
+        "news": "Noticias",
+        "contact": "Contacto",
+        "search": {
+            "placeholder": "Buscar...",
+            "suggestions": "Sugerencias",
+            "recent": "Búsquedas Recientes"
+        },
+        "toggleTheme": "Cambiar tema",
+        "changeLanguage": "Cambiar idioma",
+        "shoppingCart": "Carro de compras",
+        "userAccount": "Cuenta de usuario",
+        "user": {
+            "greeting": "Hola",
+            "myAccount": "Mi Cuenta",
+            "logout": "Cerrar Sesión"
+        }
+    },
+    "upcomingShows": {
+        "title": "Próximos Shows en Chile",
+        "mediaButton": "Media",
+        "buyButton": "Comprar Entradas",
+        "noResults": "No se encontraron shows con tu búsqueda.",
+        "modal": {
+            "listen": "Escuchar Ahora",
+            "watch": "Ver Video"
+        }
+    },
+    "newReleases": {
+        "title": "Nuevos Lanzamientos"
+    },
+    "store": {
+        "title": "Tienda Oficial",
+        "merchTab": "Merchandising",
+        "ticketsTab": "Entradas",
+        "addButton": "Añadir",
+        "buyButton": "Comprar",
+        "noMerchFound": "No se encontró merchandising con tu búsqueda.",
+        "noTicketsFound": "No se encontraron entradas con tu búsqueda."
+    },
+    "imageAnalyzer": {
+        "title": "Fan Zone: Analizador de Fotos",
+        "description": "¿Tienes una foto épica de un concierto o un fan-art increíble? Súbela aquí y deja que nuestra IA, con todo el espíritu del rock, te diga lo genial que es.",
+        "selectButton": "Seleccionar Imagen",
+        "analyzeButton": "¡Analizar con Espíritu de Rock!",
+        "loadingButton": "Analizando...",
+        "analysisTitle": "Análisis de la IA:",
+        "errorSelectFirst": "Por favor, selecciona una imagen primero.",
+        "errorAnalyzing": "Ocurrió un error al analizar la imagen."
+    },
+    "news": {
+        "title": "Últimas Noticias",
+        "noResults": "No se encontraron noticias con tu búsqueda.",
+        "readMore": "Leer más...",
+        "readAloud": "Leer en voz alta"
+    },
+    "contact": {
+        "title": "Contacto",
+        "description": "¿Tienes preguntas, sugerencias o simplemente quieres saludar? ¡Déjanos un mensaje! El equipo de DRAGONATOR te responderá tan pronto como sea posible. También puedes encontrarnos en nuestra base de operaciones.",
+        "formTitle": "Envíanos un Mensaje",
+        "formSent": "¡Gracias por tu mensaje! El espíritu del rock lo ha recibido.",
+        "formName": "Tu Nombre",
+        "formEmail": "Tu Correo Electrónico",
+        "formPhone": "Tu Teléfono (Opcional)",
+        "formMessage": "Tu Mensaje",
+        "formSending": "Enviando...",
+        "formSend": "Enviar Mensaje",
+        "infoTitle": "Nuestra Base de Operaciones",
+        "mapTitle": "Ubicación de DRAGONATOR"
+    },
+    "footer": {
+        "copyright": "Todos los derechos reservados. Trayendo el mejor rock japonés a Chile."
+    },
+    "auth": {
+        "login": {
+            "tab": "Iniciar Sesión",
+            "title": "Bienvenido de Vuelta",
+            "button": "Entrar",
+            "errorCredentials": "Credenciales incorrectas. Inténtalo de nuevo.",
+            "errorVerify": "No se pudo verificar el usuario.",
+            "errorNoUser": "Ningún usuario registrado con ese email."
+        },
+        "signup": {
+            "tab": "Crear Cuenta",
+            "title": "Únete a la Invasión",
+            "button": "Crear Cuenta",
+            "errorAllFields": "Todos los campos son obligatorios."
+        },
+        "form": {
+            "email": "Correo Electrónico",
+            "password": "Contraseña",
+            "name": "Tu Nombre",
+            "createPassword": "Crea una Contraseña"
+        }
+    },
+    "cart": {
+        "title": "Tu Carro",
+        "empty": {
+            "line1": "Tu carro está vacío.",
+            "line2": "¡Añade algo de merch para mostrar tu espíritu de rock!"
+        },
+        "subtotal": "Subtotal",
+        "checkoutButton": "Proceder al Pago (Simulado)"
+    },
+    "account": {
+        "title": "Mi Cuenta",
+        "personalDetails": "Datos Personales",
+        "name": "Nombre",
+        "email": "Correo Electrónico",
+        "billingDetails": "Datos de Facturación",
+        "address": "Dirección",
+        "city": "Ciudad",
+        "country": "País",
+        "phone": "Teléfono",
+        "saveButton": "Guardar Cambios",
+        "savingButton": "Guardando...",
+        "savedButton": "¡Guardado!"
+    },
+    "checkout": {
+        "total": "Total",
+        "nextButton": "Siguiente",
+        "backButton": "Atrás",
+        "progress": {
+            "tickets": "Entradas",
+            "information": "Información",
+            "payment": "Pago",
+            "confirmation": "Confirmación"
+        },
+        "step1": {
+            "title": "1. Selecciona tus Entradas",
+            "sectionLabel": "Ubicación",
+            "quantityLabel": "Cantidad"
+        },
+        "step2": {
+            "title": "2. Información del Comprador",
+            "nameLabel": "Nombre Completo",
+            "emailLabel": "Correo Electrónico"
+        },
+        "step3": {
+            "title": "3. Pago (Simulado)",
+            "summary": "Resumen del Pedido",
+            "creditCard": "Tarjeta de Crédito",
+            "cardNumber": "Número de Tarjeta",
+            "expiry": "Expiración (MM/AA)",
+            "paypalRedirect": "Serás redirigido a PayPal para completar tu pago de forma segura.",
+            "confirmButton": "Confirmar Compra"
+        },
+        "step4": {
+            "title": "¡Compra Exitosa!",
+            "confirmationText": "Hemos enviado la confirmación y tus entradas a {{email}}.",
+            "details": "Detalles de tu Compra",
+            "event": "Evento",
+            "venue": "Lugar",
+            "date": "Fecha",
+            "tickets": "Entradas",
+            "totalPaid": "Total Pagado",
+            "homeButton": "Volver al Inicio"
+        }
+    },
+    "merchCheckout": {
+        "title": "Pago de Merchandising",
+        "total": "Total",
+        "nextButton": "Siguiente",
+        "backButton": "Atrás",
+        "progress": {
+            "shipping": "Envío",
+            "payment": "Pago",
+            "confirmation": "Confirmación"
+        },
+        "step1": {
+            "summary": "Resumen de tu Pedido",
+            "shippingInfo": "Información de Envío"
+        },
+        "form": {
+            "name": "Nombre Completo",
+            "email": "Email",
+            "address": "Dirección",
+            "city": "Ciudad",
+            "country": "País",
+            "phone": "Teléfono"
+        },
+        "step2": {
+            "title": "2. Pago (Simulado)",
+            "creditCard": "Tarjeta de Crédito",
+            "cardNumber": "Número de Tarjeta",
+            "expiry": "Expiración (MM/AA)",
+            "paypalRedirect": "Serás redirigido a PayPal para completar tu pago de forma segura.",
+            "confirmButton": "Confirmar Compra"
+        },
+        "step3": {
+            "title": "¡Gracias por tu compra!",
+            "confirmationText": "Hemos recibido tu pedido y lo enviaremos pronto a la dirección indicada. Recibirás un correo de confirmación en {{email}}.",
+            "totalPaid": "Total Pagado",
+            "shippingTo": "Enviar a",
+            "homeButton": "Volver al Inicio"
+        }
+    }
+}

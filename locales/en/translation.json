@@ -1,0 +1,203 @@
+{
+    "loading": "Loading...",
+    "header": {
+        "home": "Home",
+        "store": "Store",
+        "fanZone": "Fan Zone",
+        "news": "News",
+        "contact": "Contact",
+        "search": {
+            "placeholder": "Search...",
+            "suggestions": "Suggestions",
+            "recent": "Recent Searches"
+        },
+        "toggleTheme": "Toggle theme",
+        "changeLanguage": "Change language",
+        "shoppingCart": "Shopping cart",
+        "userAccount": "User account",
+        "user": {
+            "greeting": "Hi",
+            "myAccount": "My Account",
+            "logout": "Log Out"
+        }
+    },
+    "upcomingShows": {
+        "title": "Upcoming Shows in Chile",
+        "mediaButton": "Media",
+        "buyButton": "Buy Tickets",
+        "noResults": "No shows found for your search.",
+        "modal": {
+            "listen": "Listen Now",
+            "watch": "Watch Video"
+        }
+    },
+    "newReleases": {
+        "title": "New Releases"
+    },
+    "store": {
+        "title": "Official Store",
+        "merchTab": "Merchandise",
+        "ticketsTab": "Tickets",
+        "addButton": "Add",
+        "buyButton": "Buy",
+        "noMerchFound": "No merchandise found for your search.",
+        "noTicketsFound": "No tickets found for your search."
+    },
+    "imageAnalyzer": {
+        "title": "Fan Zone: Photo Analyzer",
+        "description": "Have an epic concert photo or incredible fan art? Upload it here and let our AI, with all the spirit of rock, tell you how awesome it is.",
+        "selectButton": "Select Image",
+        "analyzeButton": "Analyze with Rock Spirit!",
+        "loadingButton": "Analyzing...",
+        "analysisTitle": "AI Analysis:",
+        "errorSelectFirst": "Please, select an image first.",
+        "errorAnalyzing": "An error occurred while analyzing the image."
+    },
+    "news": {
+        "title": "Latest News",
+        "noResults": "No news found for your search.",
+        "readMore": "Read more...",
+        "readAloud": "Read aloud"
+    },
+    "contact": {
+        "title": "Contact",
+        "description": "Do you have questions, suggestions, or just want to say hello? Leave us a message! The DRAGONATOR team will get back to you as soon as possible. You can also find us at our base of operations.",
+        "formTitle": "Send Us a Message",
+        "formSent": "Thanks for your message! The spirit of rock has received it.",
+        "formName": "Your Name",
+        "formEmail": "Your Email",
+        "formPhone": "Your Phone (Optional)",
+        "formMessage": "Your Message",
+        "formSending": "Sending...",
+        "formSend": "Send Message",
+        "infoTitle": "Our Base of Operations",
+        "mapTitle": "DRAGONATOR Location"
+    },
+    "footer": {
+        "copyright": "All rights reserved. Bringing the best of Japanese rock to Chile."
+    },
+    "auth": {
+        "login": {
+            "tab": "Log In",
+            "title": "Welcome Back",
+            "button": "Enter",
+            "errorCredentials": "Incorrect credentials. Please try again.",
+            "errorVerify": "Could not verify user.",
+            "errorNoUser": "No user registered with that email."
+        },
+        "signup": {
+            "tab": "Sign Up",
+            "title": "Join the Invasion",
+            "button": "Create Account",
+            "errorAllFields": "All fields are required."
+        },
+        "form": {
+            "email": "Email",
+            "password": "Password",
+            "name": "Your Name",
+            "createPassword": "Create a Password"
+        }
+    },
+    "cart": {
+        "title": "Your Cart",
+        "empty": {
+            "line1": "Your cart is empty.",
+            "line2": "Add some merch to show your rock spirit!"
+        },
+        "subtotal": "Subtotal",
+        "checkoutButton": "Proceed to Checkout (Simulated)"
+    },
+    "account": {
+        "title": "My Account",
+        "personalDetails": "Personal Details",
+        "name": "Name",
+        "email": "Email",
+        "billingDetails": "Billing Details",
+        "address": "Address",
+        "city": "City",
+        "country": "Country",
+        "phone": "Phone",
+        "saveButton": "Save Changes",
+        "savingButton": "Saving...",
+        "savedButton": "Saved!"
+    },
+    "checkout": {
+        "total": "Total",
+        "nextButton": "Next",
+        "backButton": "Back",
+        "progress": {
+            "tickets": "Tickets",
+            "information": "Information",
+            "payment": "Payment",
+            "confirmation": "Confirmation"
+        },
+        "step1": {
+            "title": "1. Select Your Tickets",
+            "sectionLabel": "Section",
+            "quantityLabel": "Quantity"
+        },
+        "step2": {
+            "title": "2. Buyer Information",
+            "nameLabel": "Full Name",
+            "emailLabel": "Email"
+        },
+        "step3": {
+            "title": "3. Payment (Simulated)",
+            "summary": "Order Summary",
+            "creditCard": "Credit Card",
+            "cardNumber": "Card Number",
+            "expiry": "Expiration (MM/YY)",
+            "paypalRedirect": "You will be redirected to PayPal to complete your payment securely.",
+            "confirmButton": "Confirm Purchase"
+        },
+        "step4": {
+            "title": "Purchase Successful!",
+            "confirmationText": "We have sent the confirmation and your tickets to {{email}}.",
+            "details": "Your Purchase Details",
+            "event": "Event",
+            "venue": "Venue",
+            "date": "Date",
+            "tickets": "Tickets",
+            "totalPaid": "Total Paid",
+            "homeButton": "Back to Home"
+        }
+    },
+    "merchCheckout": {
+        "title": "Merchandise Checkout",
+        "total": "Total",
+        "nextButton": "Next",
+        "backButton": "Back",
+        "progress": {
+            "shipping": "Shipping",
+            "payment": "Payment",
+            "confirmation": "Confirmation"
+        },
+        "step1": {
+            "summary": "Your Order Summary",
+            "shippingInfo": "Shipping Information"
+        },
+        "form": {
+            "name": "Full Name",
+            "email": "Email",
+            "address": "Address",
+            "city": "City",
+            "country": "Country",
+            "phone": "Phone"
+        },
+        "step2": {
+            "title": "2. Payment (Simulated)",
+            "creditCard": "Credit Card",
+            "cardNumber": "Card Number",
+            "expiry": "Expiration (MM/YY)",
+            "paypalRedirect": "You will be redirected to PayPal to complete your payment securely.",
+            "confirmButton": "Confirm Purchase"
+        },
+        "step3": {
+            "title": "Thank you for your purchase!",
+            "confirmationText": "We have received your order and will ship it soon to the provided address. You will receive a confirmation email at {{email}}.",
+            "totalPaid": "Total Paid",
+            "shippingTo": "Shipping to",
+            "homeButton": "Back to Home"
+        }
+    }
+}
